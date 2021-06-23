@@ -5,6 +5,7 @@
 - 1) CLone Repo
 - 2) Create Database
 - 3) Update database  name in .env file
-- 4) Run migrations (php artisan migrate)
-- 5) Run Seeder (php artisan db:seed DatabaseSeeder)
-- 6) Run (php artisan serve)
+- 4) Run composer install
+- 5) Run migrations (php artisan migrate)
+- 6) Run Seeder (php artisan db:seed DatabaseSeeder)
+- 7) Run (php artisan serve)
