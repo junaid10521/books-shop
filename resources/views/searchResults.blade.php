@@ -10,8 +10,8 @@
             <tr>
                 <th>S/No</th>
                 <th>Book Title</th>
-                <th>Firstname</th>
-                <th>Lastname</th>
+                <th>Author's Firstname</th>
+                <th>Author's Lastname</th>
                 <th>Published Date</th>
                 <th>Price</th>
             </tr>
